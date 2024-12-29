@@ -1,0 +1,11 @@
+name "tests"
+description "Tests for the bindbc jolt physics"
+authors "Youness KAFIA"
+copyright "Copyright © 2024, Youness KAFIA"
+license "MIT"
+dependency "bindbc-loader" version="~>1.1.5"
+dependency "bindbc-jolt" path="../"
+targetPath "bin"
+
+
+copyFiles "../submodules/JoltPhysicsSharp/native/win-x64"

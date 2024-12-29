@@ -1,0 +1,17 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/bindbc-jolt
+bindbc-jolt.so
+bindbc-jolt.dylib
+bindbc-jolt.dll
+bindbc-jolt.a
+bindbc-jolt.lib
+bindbc-jolt-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst
+bin/

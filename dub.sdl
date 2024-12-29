@@ -1,0 +1,7 @@
+name "bindbc-jolt"
+description "Bindings for the jolt physics library"
+authors "Youness KAFIA"
+copyright "Copyright © 2024, Youness KAFIA"
+license "MIT"
+dependency "bindbc-loader" version="~>1.1.5"
+targetPath "bin"
