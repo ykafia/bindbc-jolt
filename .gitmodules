@@ -1,0 +1,6 @@
+[submodule "submodules/JoltPhysicsSharp"]
+	path = submodules/JoltPhysicsSharp
+	url = https://github.com/amerkoleci/JoltPhysicsSharp
+[submodule "submodules/joltc"]
+	path = submodules/joltc
+	url = https://github.com/amerkoleci/joltc
