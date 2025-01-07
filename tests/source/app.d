@@ -21,7 +21,7 @@ enum BroadPhaseLayers
 
 void main()
 {
-	loadJolt();
+	loadJolt("win-x64/joltc.dll");
 	auto a = jph_init();
 	auto jobSystem = jph_jobSystemThreadPool_Create(null);
 	// We use only 2 layers: one for non-moving objects and one for moving objects

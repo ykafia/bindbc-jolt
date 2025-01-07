@@ -1,5 +1,6 @@
 module bindbc.joltc.funcs;
 
+import bindbc.joltc.aliases;
 import bindbc.joltc.types;
 
 __gshared
